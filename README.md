@@ -213,3 +213,7 @@ TOTAL                                                        1500    345    77%
 
 ## <img style="left;" src="./extras/boneca_t.png">Links úteis:
 <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank" width="80" height="20"></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" target="_blank" width="80" height="20"></a> <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" width="80" height="20"></a> <a href="https://swagger.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" target="_blank" width="80" height="20"></a>
+
+## <img style="left;" src="./extras/apresentacao.png" width="40" height="40">Apresentação:
+<a href="https://www.canva.com/design/DAFNkq8lujM/m0wBbacdZqX2SuIswWbJig/view#1" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank" width="80" height="20"></a>
+
